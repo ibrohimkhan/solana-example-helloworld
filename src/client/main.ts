@@ -23,7 +23,7 @@ async function main() {
   await checkProgram();
 
   // Say hello to an account
-  await sayHello();
+  await sayHello('Hello World!!!123');
 
   // Find out how many times that account has been greeted
   await reportGreetings();
